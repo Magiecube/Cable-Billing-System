@@ -1,0 +1,27 @@
+Account number: 1001
+Amount due: $47.50
+
+Account number: 1002
+Amount due: $340.00
+
+Account number: 1003
+Amount due: $40.00
+
+Account number: 1004
+Amount due: $715.00
+
+Account number: 1005
+Amount due: $77.50
+
+Account number: 1006
+Amount due: $240.00
+
+Account number: 1007
+Amount due: $32.50
+
+Account number: 1008
+Amount due: $540.00
+
+Summary:
+Residential Customers: Average spending = $49.38
+Business Customers: Average spending = $458.75
